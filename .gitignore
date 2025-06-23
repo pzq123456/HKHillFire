@@ -1,3 +1,34 @@
+data/map
+__pycache__
+.vscode
+venv
+data/output.zip
+dist
+dist.zip
+DS_Store
+R-4.4.2-win.exe
+references
+.DS_Store
+paper/2021 paper template.docx
+data/2020RasterGridsonLandUtilization_GEOTIFF
+paper/word/2021 paper template.docx
+
+data/output/density.tiff
+data/24939606.zip
+data/WUI/Baseline_2020_Interface_WUI.tif
+data/WUI/Baseline_2020_Interface_WUI.tif.aux.xml
+data/WUI/Baseline_2020_Intermix_WUI.tif
+data/WUI/Baseline_2020_Intermix_WUI.tif.aux.xml
+data/WUI/ppp_2020_1km_Aggregated.tif
+data/WUI/ppp_2020_1km_Aggregated.tif.aux.xml
+
+output
+
+4.28/
+5.25/
+QGIS/WUI.png.zip
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

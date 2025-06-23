@@ -1,0 +1,342 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "RH",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.9219444, 22.3094444 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_HKA_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_HKA_RH_2024.csv",
+				"WeatherStationName_en" : "Hong Kong International Airport",
+				"WeatherStationName_sc" : "香港国际机场",
+				"WeatherStationName_uc" : "香港國際機場"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.0266667, 22.2011111 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_CCH_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_CCH_RH_2024.csv",
+				"WeatherStationName_en" : "Cheung Chau",
+				"WeatherStationName_sc" : "长洲",
+				"WeatherStationName_uc" : "長洲"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1741667, 22.3019444 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_HKO_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_HKO_RH_2024.csv",
+				"WeatherStationName_en" : "Hong Kong Observatory",
+				"WeatherStationName_sc" : "香港天文台",
+				"WeatherStationName_uc" : "香港天文台"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.3125, 22.3702778 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_KSC_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_KSC_RH_2024.csv",
+				"WeatherStationName_en" : "Kau Sai Chau",
+				"WeatherStationName_sc" : "滘西洲",
+				"WeatherStationName_uc" : "滘西洲"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1727778, 22.3119444 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_KP_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_KP_RH_2024.csv",
+				"WeatherStationName_en" : "King's Park",
+				"WeatherStationName_sc" : "京士柏",
+				"WeatherStationName_uc" : "京士柏"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.8586111, 22.4688889 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_LFS_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_LFS_RH_2024.csv",
+				"WeatherStationName_en" : "Lau Fau Shan",
+				"WeatherStationName_sc" : "流浮山",
+				"WeatherStationName_uc" : "流浮山"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.3230556, 22.4027778 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TYW_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TYW_RH_2024.csv",
+				"WeatherStationName_en" : "Tsak Yue Wu",
+				"WeatherStationName_sc" : "鲫鱼湖",
+				"WeatherStationName_uc" : "鯽魚湖"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.0433333, 22.2911111 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_PEN_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_PEN_RH_2024.csv",
+				"WeatherStationName_en" : "Peng Chau",
+				"WeatherStationName_sc" : "坪洲",
+				"WeatherStationName_uc" : "坪洲"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.2744444, 22.3755556 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SKG_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SKG_RH_2024.csv",
+				"WeatherStationName_en" : "Sai Kung",
+				"WeatherStationName_sc" : "西贡",
+				"WeatherStationName_uc" : "西貢"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.21, 22.4025 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SHA_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SHA_RH_2024.csv",
+				"WeatherStationName_en" : "Sha Tin",
+				"WeatherStationName_sc" : "沙田",
+				"WeatherStationName_uc" : "沙田"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.0847222, 22.4361111 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SEK_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SEK_RH_2024.csv",
+				"WeatherStationName_en" : "Shek Kong",
+				"WeatherStationName_sc" : "石岗 ",
+				"WeatherStationName_uc" : "石崗"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1111111, 22.5019444 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SSH_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SSH_RH_2024.csv",
+				"WeatherStationName_en" : "Sheung Shui",
+				"WeatherStationName_sc" : "上水",
+				"WeatherStationName_uc" : "上水"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1566667, 22.5286111 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TKL_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TKL_RH_2024.csv",
+				"WeatherStationName_en" : "Ta Kwu Ling",
+				"WeatherStationName_sc" : "打鼓岭",
+				"WeatherStationName_uc" : "打鼓嶺"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1244444, 22.4105556 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TMS_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TMS_RH_2024.csv",
+				"WeatherStationName_en" : "Tai Mo Shan",
+				"WeatherStationName_sc" : "大帽山",
+				"WeatherStationName_uc" : "大帽山"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1771, 22.44822 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_YCT_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_YCT_RH_2024.csv",
+				"WeatherStationName_en" : "Tai Po (Yuan Chau Tsai Park)",
+				"WeatherStationName_sc" : "大埔（元洲仔公园）",
+				"WeatherStationName_uc" : "大埔（元洲仔公園）"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.2177778, 22.3577778 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TC_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TC_RH_2024.csv",
+				"WeatherStationName_en" : "Tate's Cairn",
+				"WeatherStationName_sc" : "大老山",
+				"WeatherStationName_uc" : "大老山"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.2555556, 22.3158333 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_JKB_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_JKB_RH_2024.csv",
+				"WeatherStationName_en" : "Tseung Kwan O",
+				"WeatherStationName_sc" : "将军澳",
+				"WeatherStationName_uc" : "將軍澳"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.11, 22.34416667 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TY1_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TY1_RH_2024.csv",
+				"WeatherStationName_en" : "New Tsing Yi Station",
+				"WeatherStationName_sc" : "新青衣站",
+				"WeatherStationName_uc" : "新青衣站"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1266667, 22.3755556 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TW_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TW_RH_2024.csv",
+				"WeatherStationName_en" : "Tsuen Wan Shing Mun Valley",
+				"WeatherStationName_sc" : "荃湾城门谷",
+				"WeatherStationName_uc" : "荃灣城門谷"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.9641667, 22.3858333 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TU1_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TU1_RH_2024.csv",
+				"WeatherStationName_en" : "Tuen Mun Children and Juvenile Home ",
+				"WeatherStationName_sc" : "屯门儿童及青少年院",
+				"WeatherStationName_uc" : "屯門兒童及青少年院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.3033333, 22.1822222 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_WGL_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_WGL_RH_2024.csv",
+				"WeatherStationName_en" : "Waglan Island",
+				"WeatherStationName_sc" : "横澜岛",
+				"WeatherStationName_uc" : "橫瀾島"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.0088889, 22.4666667 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_WLP_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_WLP_RH_2024.csv",
+				"WeatherStationName_en" : "Wetland Park",
+				"WeatherStationName_sc" : "湿地公园",
+				"WeatherStationName_uc" : "濕地公園"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1736111, 22.2477778 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_HKS_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_HKS_RH_2024.csv",
+				"WeatherStationName_en" : "Wong Chuk Hang",
+				"WeatherStationName_sc" : "黄竹坑",
+				"WeatherStationName_uc" : "黃竹坑"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1077778, 22.3836111 ]
+			},
+			"properties" : {
+				"DailyMeanRelativeHumidity_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TWN_RH_ALL.csv",
+				"DailyMeanRelativeHumidity_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TWN_RH_2024.csv",
+				"WeatherStationName_en" : "Tsuen Wan",
+				"WeatherStationName_sc" : "荃湾",
+				"WeatherStationName_uc" : "荃灣"
+			}
+		}
+	]
+}

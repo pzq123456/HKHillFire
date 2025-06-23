@@ -1,0 +1,412 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "WSPD",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 113.8911111, 22.3458333 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SC_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SC_WSPD_2024.csv",
+				"WeatherStationName_en" : "Sha Chau",
+				"WeatherStationName_sc" : "沙洲",
+				"WeatherStationName_uc" : "沙洲"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1558333, 22.2888889 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_CP1_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_CP1_WSPD_2024.csv",
+				"WeatherStationName_en" : "Central Pier",
+				"WeatherStationName_sc" : "中环码头",
+				"WeatherStationName_uc" : "中環碼頭"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 113.9219444, 22.3094444 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_HKA_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_HKA_WSPD_2024.csv",
+				"WeatherStationName_en" : "Hong Kong International Airport",
+				"WeatherStationName_sc" : "香港国际机场",
+				"WeatherStationName_uc" : "香港國際機場"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.0266667, 22.2011111 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_CCH_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_CCH_WSPD_2024.csv",
+				"WeatherStationName_en" : "Cheung Chau",
+				"WeatherStationName_sc" : "长洲",
+				"WeatherStationName_uc" : "長洲"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.0291667, 22.2108333 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_CCB_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_CCB_WSPD_2024.csv",
+				"WeatherStationName_en" : "Cheung Chau Beach",
+				"WeatherStationName_sc" : "长洲泳滩",
+				"WeatherStationName_uc" : "長洲泳灘"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1127778, 22.285 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_GI_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_GI_WSPD_2024.csv",
+				"WeatherStationName_en" : "Green Island",
+				"WeatherStationName_sc" : "青洲",
+				"WeatherStationName_uc" : "青洲"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.2133333, 22.3097222 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SE_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SE_WSPD_2024.csv",
+				"WeatherStationName_en" : "Kai Tak",
+				"WeatherStationName_sc" : "启德",
+				"WeatherStationName_uc" : "啟德"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1727778, 22.3119444 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_KP_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_KP_WSPD_2024.csv",
+				"WeatherStationName_en" : "King's Park",
+				"WeatherStationName_sc" : "京士柏",
+				"WeatherStationName_uc" : "京士柏"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1086111, 22.2261111 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_LAM_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_LAM_WSPD_2024.csv",
+				"WeatherStationName_en" : "Lamma Island",
+				"WeatherStationName_sc" : "南丫岛",
+				"WeatherStationName_uc" : "南丫島"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 113.9836111, 22.4688889 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_LFS_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_LFS_WSPD_2024.csv",
+				"WeatherStationName_en" : "Lau Fau Shan",
+				"WeatherStationName_sc" : "流浮山",
+				"WeatherStationName_uc" : "流浮山"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 113.912778, 22.2586111 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_NGP_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_NGP_WSPD_2024.csv",
+				"WeatherStationName_en" : "Ngong Ping ",
+				"WeatherStationName_sc" : "昂坪",
+				"WeatherStationName_uc" : "昂坪"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.199722, 22.294444 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_NP_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_NP_WSPD_2024.csv",
+				"WeatherStationName_en" : "North Point",
+				"WeatherStationName_sc" : "北角",
+				"WeatherStationName_uc" : "北角"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.0433333, 22.2911111 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_PEN_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_PEN_WSPD_2024.csv",
+				"WeatherStationName_en" : "Peng Chau",
+				"WeatherStationName_sc" : "坪洲",
+				"WeatherStationName_uc" : "坪洲"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.2744444, 22.3755556 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SKG_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SKG_WSPD_2024.csv",
+				"WeatherStationName_en" : "Sai Kung",
+				"WeatherStationName_sc" : "西贡",
+				"WeatherStationName_uc" : "西貢"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.21, 22.4025 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SHA_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SHA_WSPD_2024.csv",
+				"WeatherStationName_en" : "Sha Tin",
+				"WeatherStationName_sc" : "沙田",
+				"WeatherStationName_uc" : "沙田"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.0847222, 22.4361111 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SEK_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SEK_WSPD_2024.csv",
+				"WeatherStationName_en" : "Shek Kong",
+				"WeatherStationName_sc" : "石岗 ",
+				"WeatherStationName_uc" : "石崗"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.211944, 22.1975 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_BHD_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_BHD_WSPD_2024.csv",
+				"WeatherStationName_en" : "Bluff Head",
+				"WeatherStationName_sc" : "黄麻角",
+				"WeatherStationName_uc" : "黃麻角"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1686111, 22.2930556 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SF_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SF_WSPD_2024.csv",
+				"WeatherStationName_en" : "Star Ferry",
+				"WeatherStationName_sc" : "天星码头 ",
+				"WeatherStationName_uc" : "天星碼頭"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1566667, 22.5286111 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TKL_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TKL_WSPD_2024.csv",
+				"WeatherStationName_en" : "Ta Kwu Ling",
+				"WeatherStationName_sc" : "打鼓岭",
+				"WeatherStationName_uc" : "打鼓嶺"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.2375, 22.4752778 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_PLC_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_PLC_WSPD_2024.csv",
+				"WeatherStationName_en" : "Tai Mei Tuk",
+				"WeatherStationName_sc" : "大美督",
+				"WeatherStationName_uc" : "大美督"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1841667, 22.4425 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TPK_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TPK_WSPD_2024.csv",
+				"WeatherStationName_en" : "Tai Po Kau",
+				"WeatherStationName_sc" : "大埔滘",
+				"WeatherStationName_uc" : "大埔滘"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.363056, 22.4683333 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TME_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TME_WSPD_2024.csv",
+				"WeatherStationName_en" : "Tap Mun East",
+				"WeatherStationName_sc" : "塔门东",
+				"WeatherStationName_uc" : "塔門東"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.2177778, 22.3577778 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TC_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TC_WSPD_2024.csv",
+				"WeatherStationName_en" : "Tate's Cairn",
+				"WeatherStationName_sc" : "大老山",
+				"WeatherStationName_uc" : "大老山"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.2555556, 22.3158333 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_JKB_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_JKB_WSPD_2024.csv",
+				"WeatherStationName_en" : "Tseung Kwan O",
+				"WeatherStationName_sc" : "将军澳",
+				"WeatherStationName_uc" : "將軍澳"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.086028, 22.345278 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SHL_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_SHL_WSPD_2024.csv",
+				"WeatherStationName_en" : "Shell Oil Depot",
+				"WeatherStationName_sc" : "青衣岛蚬壳油库",
+				"WeatherStationName_uc" : "青衣島蜆殼油庫"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 113.9766667, 22.39056 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TUN_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TUN_WSPD_2024.csv",
+				"WeatherStationName_en" : "Tuen Mun Government Offices",
+				"WeatherStationName_sc" : "屯门政府合署",
+				"WeatherStationName_uc" : "屯門政府合署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.3033333, 22.1822222 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_WGL_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_WGL_WSPD_2024.csv",
+				"WeatherStationName_en" : "Waglan Island",
+				"WeatherStationName_sc" : "横澜岛",
+				"WeatherStationName_uc" : "橫瀾島"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.0088889, 22.4666667 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_WLP_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_WLP_WSPD_2024.csv",
+				"WeatherStationName_en" : "Wetland Park",
+				"WeatherStationName_sc" : "湿地公园",
+				"WeatherStationName_uc" : "濕地公園"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 114.1736111, 22.2477778 ]
+			},
+			"properties" : {
+				"DailyMeanWindSpeed_AllYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_HKS_WSPD_ALL.csv",
+				"DailyMeanWindSpeed_CurrentYear_url" : "https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_HKS_WSPD_2024.csv",
+				"WeatherStationName_en" : "Wong Chuk Hang",
+				"WeatherStationName_sc" : "黄竹坑",
+				"WeatherStationName_uc" : "黃竹坑"
+			}
+		}
+	]
+}
