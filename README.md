@@ -1,10 +1,8 @@
 # Pyroregions of High-Density Asian Cities: Decoding WUI Fire Regimes in Hong Kong
 
-This fold includes codes that generate main results in the article entitled "Pyroregions of High-Density Asian Cities: Decoding WUI Fire Regimes in Hong Kong". Please cite the following article when using the code:
-
-```
+This fold includes codes that generate main results in the article entitled "Pyroregions of High-Density Asian Cities: Decoding WUI Fire Regimes in Hong Kong". Please cite the following article when using the code:\
 Li, Y., Pan, Z., Gao, C., & Huang, X. (in preparation). Pyroregions of High-Density Asian Cities: Decoding WUI Fire Regimes in Hong Kong.
-```
+
 
 ## 1. System requirements
 
